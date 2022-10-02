@@ -258,7 +258,7 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+![png](Images/output_7_0.png)
     
 
 
@@ -409,7 +409,7 @@ ax.set_title("Histogram of TOp words in each category")
 
 
     
-![png](output_21_1.png)
+![png](Images/output_21_1.png)
     
 
 
@@ -456,7 +456,7 @@ ax.set_title("Histogram of TOp words in each category")
 
 
     
-![png](output_23_1.png)
+![png](Images/output_23_1.png)
     
 
 
